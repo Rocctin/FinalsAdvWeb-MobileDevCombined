@@ -32,15 +32,21 @@ def home(request):
     <p><strong>Django REST Framework:</strong> 3.16.0</p>
     <p><strong>Django REST Framework:</strong> 3.16.0</p>
     <strong>List of Packages:</strong>
+    <p>asgiref==3.8.1</p>
     <p>Django==5.2.3</p>
-    <p>pandas==2.3.0</p>
     <p>djangorestframework==3.16.0</p>
-    <p>djangorestframework-simplejwt==5.5.0</p>
+    <p>djangorestframework_simplejwt==5.5.0</p>
+    <p>gunicorn==23.0.0</p>
+    <p>numpy==2.3.1</p>
+    <p>packaging==25.0</p>
+    <p>pandas==2.3.0</p>
     <p>PyJWT==2.9.0</p>
     <p>python-dateutil==2.9.0.post0</p>
     <p>pytz==2025.2</p>
+    <p>six==1.17.0</p>
     <p>sqlparse==0.5.3</p>
-    <p>numpy==2.3.1</p>
+    <p>tzdata==2025.2</p>
+    <p>whitenoise==6.9.2</p>
     <p><strong>Database:</strong> SQLite3</p>
     <p><strong>Admin Site:</strong> <a href="/admin/">/admin/</a> (username: admin, password: admin123)</p>
     """)

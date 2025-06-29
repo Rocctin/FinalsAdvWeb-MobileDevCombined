@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-y25=_4-top0z1ngvscf2-q@i))_5mq&s=r96-1-7yed#ccehv@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['drfcm3035marcusapi-01c8a6c03e5d.herokuapp.com', 'markylooooo.rocks', 'www.markylooooo.rocks', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['drfcm3035marcusapi-01c8a6c03e5d.herokuapp.com', 'markylooooo.rocks',  '127.0.0.1', 'localhost']
 
 
 # Application definition
